@@ -1,4 +1,4 @@
-bin/
+bin/com/tcs/Bank
 .project
 .settings/
 .classpath
