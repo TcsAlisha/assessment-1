@@ -5,5 +5,13 @@ public class BankAccount {
 	public static void main(String[] args) {
 		BankAccount bankaccount = new BankAccount();
 		System.out.println(bankaccount.ownerName);
+		CreateSavingsAccount();
+		CreateCurrentAccount();
+	}
+	public static void CreateSavingsAccount() {
+		
+	}
+	public static void CreateCurrentAccount() {
+		
 	}
 }
